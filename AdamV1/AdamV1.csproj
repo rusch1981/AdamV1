@@ -269,7 +269,7 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\_LayoutAlt.cshtml" />
-    <Content Include="Views\AlternateView\ProjectHomePage.cshtml" />
+    <Content Include="Views\AlternateView\Index.cshtml" />
     <Content Include="Views\AlternateView\Feature.cshtml" />
     <Content Include="Views\AlternateView\About.cshtml" />
     <Content Include="Views\AlternateView\Bands.cshtml" />
