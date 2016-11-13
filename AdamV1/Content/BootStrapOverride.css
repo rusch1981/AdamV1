@@ -14,8 +14,12 @@
     border-color: #FFFFFF;
     color:#FFFFFF;
 }
-#top-padding{
-    padding-top:150px;
+#top-padding {
+    padding-top: 150px;
+}
+#bottom-margin {
+    margin-bottom: 0px;
+    padding-bottom:0px;
 }
 footer{
   position: absolute;
