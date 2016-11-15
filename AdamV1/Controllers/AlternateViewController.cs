@@ -9,7 +9,7 @@ namespace AdamV1.Controllers
     public class AlternateViewController : Controller
     {
         // GET: AlternateView
-        public ActionResult ProjectHomePage()
+        public ActionResult Index()
         {
             return View();
         }
